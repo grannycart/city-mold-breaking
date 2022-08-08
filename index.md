@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Breaking the Mold of Cities 
 ---
 
@@ -29,7 +29,7 @@ This is a list of those alternative visions of cities and what might
 be significant about them to the urban planner or others with an
 interest in shaping the urban environment.
 
-
+[Up, to grannycart.net](http://grannycart.net/)
 
 
 

@@ -2,7 +2,7 @@ title: Breaking the Mold of Cities
 author: Mark Torrey # name of site's author
 email: grannycart@protonmail.com # email of site's author
 url: https://grannycart.net # root address of the site
-baseurl: # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
+baseurl: /city-mold-breaking # subpath of the site, e.g. "/blog" (leave it blank "" if your site shouldn't use a subpath)
 description: How to figure out a better way to see cities.
 
 # permalink: /:slug.html
@@ -15,7 +15,7 @@ remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
-  back_home_text: "grannycart.net" # customize text for homepage link in post layout
+  back_home_text: "Breaking the Mold of Cities" # customize text for homepage link in post layout
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
 
