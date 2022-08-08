@@ -160,6 +160,7 @@ https://www.youtube.com/watch?v=2Ud1aZFE0fU
 * They also talk about the phenomenon of resisting stranger flights-of-fancy kinds of transit solutions only because they don't already exist. That in many cases people default to what already exists because it seems practical, though the evidence for that (particularly when it comes to transit -- which is always expensive, and almost always has to be custom-built for a particular city anyway) might be scant or questionable.
 * The 1902 film shows not just how amazing it is to suspend a train over the town river, but also an crystal clear artifact (it was shot on 68mm film) of what the city looked like in 1902.
 	* Most significant, to me, is the dense scale of the buildings built right up against the edge of the river. In modern videos (even though the train is still a fully functional transit system carrying 20m people a year) it looks like most of those beautiful high-density buildings are gone. 
+* If you read the wikipedia, there were no serious incidents on the train line until the 1990s -- after "modernization". What does that say about 100 year old engineering vs today?
 
 ## The Sunsphere
 https://www.youtube.com/watch?v=hH-gnGmLaYE
