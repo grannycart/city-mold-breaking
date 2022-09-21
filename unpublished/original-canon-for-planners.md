@@ -10,6 +10,8 @@ _This is a list of works that every Urban Planner should check out. It is unlike
 (Or maybe something about creating an understanding and vision of our cities through history and fictions?)
 	(That is, planners are stuck in planner-world: Euro-styled, zoning and regulation. How ELSE could we imagine our cities? The first step to a more robust way of shaping cities is to understand what MAKES a city.)
 	(This sems like the best approach: our best vision for our cities is through our fictions. so, ditch nonfiction from this list, maybe it goes somewhere else. But what about the flyingtrain? ok -- SOME non fiction, but te list should be abou VISIONS for cities [that COULD be fiction? kowloon walled city foe example?] the goal is to break out of the paradigm of our current vision for cities, and out of positivism version of cities. Those are best seen through fictions, [though skip blade runner] and some imaginative nonfictions)
+	(It occurs to me watching the LOTR making-ofs that this could be true of ANYTHING, not just cities. Why do we have to settle for the world we have? Why not make it something different? Which is what Adam Curtis says of course. So some of your Adam Curtis thinking about cities could be included here.)
+	(The good thinkg about this approach is that it will trend towards keeping the writing entertaining -- rather than just throwing ideas out there, you can tlk about an art/visual/fiction piece and in that process use it to draw out ideas about cities. A MUCh more interesting approach to writing about ideas.)
 
 ## The Wire
 Not about how great The Wire is (though it is that) but watching it with
