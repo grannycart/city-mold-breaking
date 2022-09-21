@@ -16,11 +16,13 @@ Not about how great The Wire is (though it is that) but watching it with
 a view as to what cities _are_. That each season covers a different
 aspect of what makes cities go, and as a whole manages to cover cities
 in a fairly holistic way. Include that interview with David Simon.
+* Maybe too obvious, too plannerly. On the other hand, your professor was blown away by the David Simon interview
 
 ## Treme
 (Maybe everything David Simon ever did?)
 Because I am the big chief of the nation, the whole wild creation, and I won't
 back down..
+* Maybe too obvious
 
 ## Strawman
 By Lou Reed is one of the great works about NYC. Maybe even more
@@ -42,24 +44,29 @@ reference that Economist piece that argues that density doesn't equal
 riches --- why that's right, and why that is taking a real "gdp"
 money-first view of cities. (What people really want from cities is
 _life_, money is just a nice common side effect of vibrant life.)
+* Too obvious
 
 ## Nature's Metropolis
 Mostly the grain elevator chapters
+* Maybe too obvious
 
 ## The Power Broker
 Don't be afraid of reading it because of the size, it's a total page
 turner. Find that quote from Caro "I thought if I could write
 something about Moses I could say something about the nature of
 power."
+* Too obvious
 
 ## SPQR
 If this book does what Mary Beard's documentary about the Romans does
 --- talk about the nature of the economics of Empire on the daily life
 of city building, then definitely include it here.
+* Would have to actually read this
 
 ## The City In History
 See your notes for this. I'm _sure_ there's some of it that belongs on
 this list.
+* Too obvious
 
 ## The Essence of Decision
 Maybe? Mostly because it talks about how government works? It's just

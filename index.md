@@ -4,6 +4,8 @@ title: Breaking the Mold of Cities
 ---
 
 
+[//]: # (I read somewhere that theres a substack list of best books for urban planning. This list needs to NOT be that. Instead, it needs to be about things that are *unexpectedly* about cities.)
+::
 To change our cities we need to be able to hold visions of what they
 could be. One of the biggest challenges for cities to overcome is that
 our vision for what our cities could be is almost entirely held within
